@@ -1,5 +1,7 @@
 # tolkenizers
 
+This is the scratchwork repo of a talk given on tokenizers, feel free to explore the notebooks, but don't expect order or much consistency of thought. 
+
 ## Overview
 
 This is your new Kedro project with Kedro-Viz setup, which was generated using `kedro 0.19.2`.
